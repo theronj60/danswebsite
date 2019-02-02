@@ -2,14 +2,45 @@ body {
   width: 100%;
 }
 
-.hero-img {
-  /* max-width: 1200px; */
+#about,
+#work,
+#services,
+#contact,
+#socialmedia {
+  clear: both;
+}
+
+#hero-img {
+  max-width: 1400px;
   max-height: 350px;
+  width: 100%;
+}
+
+#contact .contact-img {
+  max-width: 100%;
+}
+
+#social {
+  max-width: 667px;
+  width: 100%;
+  max-height: 50px;
+  margin: auto;
+}
+
+#social, h1 {
+  text-align: center;
+}
+
+.about {
+  max-height: 250px;
 }
 
 .profile {
-  /* max-width: 250px; */
-  max-height: 250px;
+  max-width: 250px;
+  max-height: 80%;
+  width: 75%;
+  display: block;
+  margin: auto;
 }
 
 /* FORM */
