@@ -1,5 +1,10 @@
+html {
+  max-width: 1400px;
+}
+
 body {
   width: 100%;
+  font-size: 87.5%;
 }
 
 h1 {
@@ -29,6 +34,10 @@ h1 {
   width: 100%;
 }
 
+#about p {
+  font-size: 1em;
+}
+
 #contact img {
   /* max-width: 100%; */
   max-height: 300px;
@@ -47,17 +56,17 @@ h1 {
   margin: auto;
 }
 
-.about {
-  max-height: 250px;
-}
-
+/* .about {
+  max-height: 350px;
+} */
 .profile {
   max-width: 250px;
   max-height: 80%;
   width: 75%;
-  vertical-align: middle;
+  align-items: center;
+  /* vertical-align: middle;
   display: block;
-  margin: auto;
+  margin: auto; */
 }
 
 .mural-pics {
