@@ -63,6 +63,7 @@ h1 {
   max-width: 250px;
   max-height: 80%;
   width: 75%;
+  align-items: center;
   /* vertical-align: middle;
   display: block;
   margin: auto; */
