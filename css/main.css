@@ -65,4 +65,11 @@ h1 {
   align-content: space-evenly;
 }
 
+.work-sect {
+  background-color: blue;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
 /*# sourceMappingURL=main.css.map */
