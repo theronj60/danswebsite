@@ -15,9 +15,6 @@ h1 {
   align-content: space-evenly;
 }
 
-/* .row {
-  align-content: space-around;
-} */
 #about,
 #work,
 #services,
@@ -39,7 +36,6 @@ h1 {
 }
 
 #contact img {
-  /* max-width: 100%; */
   max-height: 300px;
   display: block;
   margin: auto;
@@ -56,19 +52,17 @@ h1 {
   margin: auto;
 }
 
-/* .about {
-  max-height: 350px;
-} */
 .profile {
   max-width: 250px;
   max-height: 80%;
   width: 75%;
   align-items: center;
-  /* vertical-align: middle;
   display: block;
-  margin: auto; */
+  margin: auto;
 }
 
 .mural-pics {
   align-content: space-evenly;
 }
+
+/*# sourceMappingURL=main.css.map */
